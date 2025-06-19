@@ -30,7 +30,7 @@ This project helps manufacturers and customers verify the authenticity of produc
 
 
 ```bash
-  git clone https://github.com/your-username/CertiDApp.git
+  git@github.com:sandhyac18091/Fake_Product_Identification.git
 ```
 
 ## Deployment
