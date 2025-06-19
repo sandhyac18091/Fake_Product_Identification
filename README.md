@@ -26,8 +26,23 @@ This project helps manufacturers and customers verify the authenticity of produc
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+## 1. Clone and Install
+
 
 ```bash
-git clone https://github.com/your-username/fake-product-id.git
-cd fake-product-id
+  git clone https://github.com/your-username/CertiDApp.git
+```
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npx hardhat node
+```
+
+```bash
+ npx hardhat ignition deploy ignition/modules/Product.js
+```
+
+
